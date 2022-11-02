@@ -1,0 +1,36 @@
+Navigation
+#navbar{
+  flex-direction: column;
+}
+
+/* Home section */
+#home{
+  height: 770px;
+
+}
+#home::before{
+  height: 900px;
+}
+#home p{
+  font-size: 1rem;
+}
+/* services section */
+#services{
+  flex-direction: column;
+}
+#services .box{
+  
+
+}
+/* clients section */
+#clients{
+  overflow: hidden;
+}
+/* contact us section */
+
+/*footer*/
+
+/* utility classes */
+.h-primary{
+  font-size: 1.3rem;
+}
